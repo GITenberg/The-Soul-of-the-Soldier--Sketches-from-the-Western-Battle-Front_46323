@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '43721'
     url: http://www.gutenberg.org/2009/agents/43721
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46323#The-Soul-of-the-Soldier--Sketches-from-the-Western-Battle-Front
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2014-07-18'
 gutenberg_type: Text
